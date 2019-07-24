@@ -1,0 +1,6 @@
+#ignore swap and temp file
+*.swp
+*~
+tmp
+*.tmp
+*.bak
